@@ -15,7 +15,8 @@
     "page.person-making-complaint",
     "page.you-full-name",
     "page.address",
-    "page.customer-address"
+    "page.customer-address",
+    "page.relationship-to-customer"
   ],
   "url": "/"
 }
