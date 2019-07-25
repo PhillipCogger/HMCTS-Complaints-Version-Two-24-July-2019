@@ -1,0 +1,13 @@
+{
+  "_id": "page.complaint-sent",
+  "_type": "page.confirmation",
+  "components": [
+    {
+      "_id": "page.complaint-sent--content",
+      "_type": "content",
+      "html": "### Check the progress of your complaint\r\n\r\nWe try to respond to all complaints within 10 working days. To find out the progress of your case, please contact the location the complaint is regarding. \r\n\r\nThe [court and tribunal finder](https://courttribunalfinder.service.gov.uk/search/) can be used to help you find the contact details."
+    }
+  ],
+  "heading": "Your complaint has been submitted successfully",
+  "url": "complaint-sent"
+}

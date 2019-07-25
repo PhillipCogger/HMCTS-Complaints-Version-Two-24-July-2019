@@ -1,0 +1,14 @@
+{
+  "_id": "page.phone-number",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.phone-number--number.auto_name__37",
+      "_type": "number",
+      "hint": "We'll only use this to contact you about your complaint",
+      "label": "Your phone number",
+      "name": "auto_name__37"
+    }
+  ],
+  "url": "phone-number"
+}

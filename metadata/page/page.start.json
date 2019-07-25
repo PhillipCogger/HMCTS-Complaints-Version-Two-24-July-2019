@@ -29,7 +29,12 @@
     "page.issue-date",
     "page.issue-details",
     "page.do-you-have-any-evidence-to-support-your-complaint",
-    "page.upload-evidence"
+    "page.upload-evidence",
+    "page.contact-preferences",
+    "page.email-address",
+    "page.phone-number",
+    "page.check-answers",
+    "page.complaint-sent"
   ],
   "url": "/"
 }
