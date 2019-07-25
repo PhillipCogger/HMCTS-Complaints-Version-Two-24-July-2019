@@ -59,5 +59,10 @@
       "name": "auto_name__14"
     }
   ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__5"
+  },
   "url": "relationship-to-customer"
 }

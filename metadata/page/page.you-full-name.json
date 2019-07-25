@@ -9,6 +9,10 @@
       "name": "auto_name__3"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
   "url": "your-full-name"
 }

@@ -10,5 +10,10 @@
       "name": "auto_name__36"
     }
   ],
+  "show": {
+    "identifier": "auto_name__34",
+    "operator": "is",
+    "value": "auto_value__25"
+  },
   "url": "email-address"
 }

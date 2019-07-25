@@ -23,5 +23,19 @@
       "name": "auto_name__27"
     }
   ],
+  "show": {
+    "all": [
+      {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "auto_value__5"
+      },
+      {
+        "identifier": "auto_name__14",
+        "operator": "is",
+        "value": "auto_value__11"
+      }
+    ]
+  },
   "url": "client-reference"
 }

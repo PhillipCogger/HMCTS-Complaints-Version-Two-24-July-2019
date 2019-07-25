@@ -41,5 +41,19 @@
     }
   ],
   "heading": "Representative address",
+  "show": {
+    "all": [
+      {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "auto_value__5"
+      },
+      {
+        "identifier": "auto_name__17",
+        "operator": "is",
+        "value": "auto_value__14"
+      }
+    ]
+  },
   "url": "correspondence-address"
 }
