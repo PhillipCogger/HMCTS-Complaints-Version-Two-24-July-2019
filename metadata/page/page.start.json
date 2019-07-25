@@ -16,9 +16,7 @@
     "page.you-full-name",
     "page.address",
     "page.relationship-to-customer",
-    "page.representative-full-name",
-    "page.complaint-contact-preference",
-    "page.representative-email-address",
+    "page.representative-details",
     "page.customer-address"
   ],
   "url": "/"
