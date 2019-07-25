@@ -12,7 +12,8 @@
   "lede": "Use this form to make a complaint about a court or tribunal.",
   "steps": [
     "page.reason-for-complaint",
-    "page.person-making-complaint"
+    "page.person-making-complaint",
+    "page.you-full-name"
   ],
   "url": "/"
 }
