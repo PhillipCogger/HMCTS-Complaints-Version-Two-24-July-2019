@@ -5,7 +5,7 @@
     {
       "_id": "page.tribunal-complaint-location--text.auto_name__25",
       "_type": "text",
-      "label": "What tribunal are you complaining about?",
+      "label": "Tribunal name",
       "name": "auto_name__25"
     }
   ],

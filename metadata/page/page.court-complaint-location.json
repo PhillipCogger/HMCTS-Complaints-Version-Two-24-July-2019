@@ -5,7 +5,7 @@
     {
       "_id": "page.court-complaint-location--text.auto_name__24",
       "_type": "text",
-      "label": "What court are you complaining about?",
+      "label": "Court name",
       "name": "auto_name__24"
     }
   ],
