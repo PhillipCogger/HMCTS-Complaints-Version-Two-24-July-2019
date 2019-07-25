@@ -1,0 +1,13 @@
+{
+  "_id": "page.tribunal-complaint-location",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.tribunal-complaint-location--text.auto_name__25",
+      "_type": "text",
+      "label": "What tribunal are you complaining about?",
+      "name": "auto_name__25"
+    }
+  ],
+  "url": "tribunal-complaint-location"
+}
