@@ -16,7 +16,8 @@
     "page.you-full-name",
     "page.address",
     "page.relationship-to-customer",
-    "page.customer-address"
+    "page.customer-address",
+    "page.representative-full-name"
   ],
   "url": "/"
 }
