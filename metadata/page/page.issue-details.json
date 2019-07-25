@@ -1,0 +1,14 @@
+{
+  "_id": "page.issue-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.issue-details--textarea.auto_name__31",
+      "_type": "textarea",
+      "hint": "Tell us what happened and how we can resolve it",
+      "label": "Issue details",
+      "name": "auto_name__31"
+    }
+  ],
+  "url": "issue-details"
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "page.issue-date",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.issue-date--date.auto_name__30",
+      "_type": "date",
+      "hint": "For example, 12 11 2018",
+      "label": "When did the issue happen?",
+      "name": "auto_name__30"
+    }
+  ],
+  "url": "issue-date"
+}

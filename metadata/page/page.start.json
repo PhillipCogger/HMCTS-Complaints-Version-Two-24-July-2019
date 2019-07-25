@@ -24,7 +24,11 @@
     "page.court-tribunal-complaint",
     "page.court-complaint-location",
     "page.tribunal-complaint-location",
-    "page.do-you-know-case-number"
+    "page.do-you-know-case-number",
+    "page.issue-date-known",
+    "page.issue-date",
+    "page.issue-details",
+    "page.do-you-have-any-evidence-to-support-your-complaint"
   ],
   "url": "/"
 }
