@@ -1,0 +1,6 @@
+{
+  "_id": "page.customer-address",
+  "_type": "page.form",
+  "heading": "What's the customer's home address?",
+  "url": "customer-address"
+}
