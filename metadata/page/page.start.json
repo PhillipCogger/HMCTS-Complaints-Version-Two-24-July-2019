@@ -28,7 +28,8 @@
     "page.issue-date-known",
     "page.issue-date",
     "page.issue-details",
-    "page.do-you-have-any-evidence-to-support-your-complaint"
+    "page.do-you-have-any-evidence-to-support-your-complaint",
+    "page.upload-evidence"
   ],
   "url": "/"
 }

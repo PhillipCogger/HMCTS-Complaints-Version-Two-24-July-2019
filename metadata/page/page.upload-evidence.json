@@ -1,0 +1,14 @@
+{
+  "_id": "page.upload-evidence",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload-evidence--fileupload.auto_name__33",
+      "_type": "fileupload",
+      "hint": "You can upload your documents as scanned copies or photos of the originals.",
+      "label": "Upload evidence",
+      "name": "auto_name__33"
+    }
+  ],
+  "url": "upload-evidence"
+}
