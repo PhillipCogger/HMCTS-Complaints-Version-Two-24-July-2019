@@ -1,0 +1,45 @@
+{
+  "_id": "page.address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.address--text.auto_name__4",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__4",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.address--text.auto_name__5",
+      "_type": "text",
+      "name": "auto_name__5",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.address--text.auto_name__6",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__6",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.address--text.auto_name__7",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__7",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.address--text.auto_name__8",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__8",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "What's your home address?",
+  "url": "address"
+}

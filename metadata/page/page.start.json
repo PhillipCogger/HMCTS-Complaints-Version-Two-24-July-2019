@@ -13,7 +13,8 @@
   "steps": [
     "page.reason-for-complaint",
     "page.person-making-complaint",
-    "page.you-full-name"
+    "page.you-full-name",
+    "page.address"
   ],
   "url": "/"
 }
