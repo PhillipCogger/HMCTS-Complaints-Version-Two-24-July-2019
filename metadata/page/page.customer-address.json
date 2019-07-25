@@ -41,5 +41,6 @@
     }
   ],
   "heading": "What's the customer's home address?",
+  "show": true,
   "url": "customer-address"
 }

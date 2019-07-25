@@ -41,5 +41,6 @@
     }
   ],
   "heading": "What's your home address?",
+  "show": true,
   "url": "address"
 }
