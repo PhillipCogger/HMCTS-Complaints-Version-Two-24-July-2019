@@ -1,0 +1,45 @@
+{
+  "_id": "page.correspondence-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.correspondence-address--text.auto_name__18",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__18",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.correspondence-address--text.auto_name__19",
+      "_type": "text",
+      "name": "auto_name__19",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.correspondence-address--text.auto_name__20",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__20",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.correspondence-address--text.auto_name__21",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__21",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.correspondence-address--text.auto_name__22",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__22",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "Correspondence address",
+  "url": "correspondence-address"
+}
