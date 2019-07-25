@@ -1,6 +1,45 @@
 {
   "_id": "page.customer-address",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.customer-address--text.auto_name__9",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__9",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__10",
+      "_type": "text",
+      "name": "auto_name__10",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__11",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__11",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__12",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__12",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.customer-address--text.auto_name__13",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__13",
+      "widthClassInput": "10"
+    }
+  ],
   "heading": "What's the customer's home address?",
   "url": "customer-address"
 }
