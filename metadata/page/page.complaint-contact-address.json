@@ -15,7 +15,7 @@
         {
           "_id": "page.complaint-contact-address--radios.auto_name__17--radio.auto_value__14",
           "_type": "radio",
-          "label": "The person acting on behalf of the customer",
+          "label": "The person complaining on behalf of the customer",
           "value": "auto_value__14"
         }
       ],
