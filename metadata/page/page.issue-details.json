@@ -5,8 +5,8 @@
     {
       "_id": "page.issue-details--textarea.auto_name__31",
       "_type": "textarea",
-      "hint": "Tell us what happened and how we can resolve it",
-      "label": "Issue details",
+      "hint": "Give as much detail as you can, for example, where you were and the names of any staff members involved.",
+      "label": "Tell us what happened and how we can resolve it",
       "name": "auto_name__31"
     }
   ],
