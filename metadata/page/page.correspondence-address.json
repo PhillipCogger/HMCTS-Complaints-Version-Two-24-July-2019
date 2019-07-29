@@ -74,9 +74,9 @@
   "show": {
     "all": [
       {
-        "identifier": "auto_name__2",
+        "identifier": "customer_making_complaint",
         "operator": "is",
-        "value": "auto_value__5"
+        "value": "on_behalf_of_customer_complaint_yes"
       },
       {
         "identifier": "auto_name__17",

@@ -10,17 +10,17 @@
           "_id": "page.person-making-complaint--radios.auto_name__2--radio.auto_value__4",
           "_type": "radio",
           "label": "Myself",
-          "value": "auto_value__4"
+          "value": "customer_making_complaint_yes"
         },
         {
           "_id": "page.person-making-complaint--radios.auto_name__2--radio.auto_value__5",
           "_type": "radio",
           "label": "On behalf of someone else",
-          "value": "auto_value__5"
+          "value": "on_behalf_of_customer_complaint_yes"
         }
       ],
       "legend": "Are you making the complaint yourself?",
-      "name": "auto_name__2"
+      "name": "customer_making_complaint"
     }
   ],
   "url": "person-making-complaint"
