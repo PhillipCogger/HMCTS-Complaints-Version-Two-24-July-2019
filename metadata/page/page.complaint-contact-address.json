@@ -10,17 +10,17 @@
           "_id": "page.complaint-contact-address--radios.auto_name__17--radio.auto_value__14",
           "_type": "radio",
           "label": "Myself",
-          "value": "auto_value__14"
+          "value": "complaint_contact_preference_person_representing_customer"
         },
         {
           "_id": "page.complaint-contact-address--radios.auto_name__17--radio.auto_value__13",
           "_type": "radio",
           "label": "The customer",
-          "value": "auto_value__13"
+          "value": "complaint_contact_preference_customer"
         }
       ],
       "legend": "Who do you want us to contact about the complaint?",
-      "name": "auto_name__17"
+      "name": "complaint_contact_preference"
     }
   ],
   "show": {

@@ -6,27 +6,27 @@
       "_id": "page.customer-address--text.auto_name__9",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__9",
+      "name": "contact_customer_home_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.customer-address--text.auto_name__10",
       "_type": "text",
-      "name": "auto_name__10",
+      "name": "contact_customer_home_address_street",
       "widthClassInput": "30"
     },
     {
       "_id": "page.customer-address--text.auto_name__11",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__11",
+      "name": "contact_customer_home_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.customer-address--text.auto_name__12",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__12",
+      "name": "contact_customer_home_address_county",
       "validation": {
         "required": false
       },
@@ -36,7 +36,7 @@
       "_id": "page.customer-address--text.auto_name__13",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__13",
+      "name": "contact_customer_home_address_postcode",
       "widthClassInput": "10"
     }
   ],
@@ -49,9 +49,9 @@
         "value": "on_behalf_of_customer_complaint_yes"
       },
       {
-        "identifier": "auto_name__17",
+        "identifier": "complaint_contact_preference",
         "operator": "is",
-        "value": "auto_value__13"
+        "value": "complaint_contact_preference_customer"
       }
     ]
   },

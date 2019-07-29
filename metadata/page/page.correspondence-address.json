@@ -79,9 +79,9 @@
         "value": "on_behalf_of_customer_complaint_yes"
       },
       {
-        "identifier": "auto_name__17",
+        "identifier": "complaint_contact_preference",
         "operator": "is",
-        "value": "auto_value__14"
+        "value": "complaint_contact_preference_person_representing_customer"
       }
     ]
   },
