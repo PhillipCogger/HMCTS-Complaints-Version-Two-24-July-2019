@@ -1,6 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
+  "body": "Use this form to make a complaint about a:\r\n\r\n* court\r\n* tribunal\r\n* service centre",
   "extraComponents": [
     {
       "_id": "page.start--content",
@@ -9,7 +10,6 @@
     }
   ],
   "heading": "Make a complaint to HMCTS",
-  "lede": "Use this form to make a complaint to HMCTS.",
   "steps": [
     "page.reason-for-complaint",
     "page.exit-page-1",
