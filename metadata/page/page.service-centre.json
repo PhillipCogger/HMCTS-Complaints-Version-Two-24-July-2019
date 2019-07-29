@@ -6,7 +6,7 @@
       "_id": "page.service-centre--text.auto_name__1",
       "_type": "text",
       "hint": "For example, a Contact Centre or National Business Centre",
-      "label": "Service Centre name",
+      "label": "What service centre are you complaining about?",
       "name": "service_centre_name"
     }
   ],
