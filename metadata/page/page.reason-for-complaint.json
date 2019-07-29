@@ -10,23 +10,23 @@
           "_id": "page.reason-for-complaint--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "My experience with HMCTS",
-          "value": "auto_value__1"
+          "value": "reason_for_complaint_hmcts_experience"
         },
         {
           "_id": "page.reason-for-complaint--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "The outcome of a case",
-          "value": "auto_value__2"
+          "value": "reason_for_complaint_case_outcome"
         },
         {
           "_id": "page.reason-for-complaint--radios.auto_name__1--radio.auto_value__3",
           "_type": "radio",
           "label": "A member of the judiciary (for example, judge, tribunal member or magistrate)",
-          "value": "auto_value__3"
+          "value": "reason_for_complaint_judiciary"
         }
       ],
       "legend": "Why do you want to make a complaint?",
-      "name": "auto_name__1"
+      "name": "reason_for_complaint"
     }
   ],
   "url": "reason-for-complaint"
