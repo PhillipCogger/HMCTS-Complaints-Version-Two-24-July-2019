@@ -5,6 +5,7 @@
     {
       "_id": "page.contact-preferences--radios.auto_name__34",
       "_type": "radios",
+      "hint": "We'll only contact you about your complaint",
       "items": [
         {
           "_id": "page.contact-preferences--radios.auto_name__34--radio.auto_value__25",
