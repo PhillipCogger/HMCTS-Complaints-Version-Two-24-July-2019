@@ -24,7 +24,7 @@
     }
   ],
   "show": {
-    "all": [
+    "any": [
       {
         "identifier": "auto_name__2",
         "operator": "is",
@@ -35,7 +35,8 @@
         "operator": "is",
         "value": "auto_value__11"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "client-reference"
 }
