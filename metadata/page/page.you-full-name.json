@@ -12,7 +12,7 @@
   "show": {
     "identifier": "customer_making_complaint",
     "operator": "is",
-    "value": "on_behalf_of_customer_complaint_yes"
+    "value": "customer_making_complaint_yes"
   },
   "url": "customer-full-name"
 }

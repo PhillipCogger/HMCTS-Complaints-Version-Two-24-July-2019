@@ -34,7 +34,7 @@
       {
         "identifier": "customer_making_complaint",
         "operator": "is",
-        "value": "customer_making_complaint_yes"
+        "value": "on_behalf_of_customer_complaint_yes"
       },
       {
         "identifier": "relationship_to_customer",
