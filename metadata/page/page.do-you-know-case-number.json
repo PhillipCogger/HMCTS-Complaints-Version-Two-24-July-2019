@@ -12,7 +12,7 @@
           "conditionalComponent": {
             "_id": "page.do-you-know-case-number--radios.auto_name__26--radio.auto_value__17--text.auto_name__28",
             "_type": "text",
-            "label": "Case number",
+            "label": "Enter case number",
             "name": "auto_name__28"
           },
           "label": "Yes",
