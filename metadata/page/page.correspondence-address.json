@@ -10,7 +10,7 @@
       "_id": "page.correspondence-address--text.auto_name__16",
       "_type": "text",
       "label": "Your full name",
-      "name": "auto_name__16"
+      "name": "representative_full_name"
     },
     {
       "$component": true,
@@ -20,7 +20,7 @@
       "_id": "page.correspondence-address--text.auto_name__18",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__18",
+      "name": "representative_address_building",
       "widthClassInput": "30"
     },
     {
@@ -30,7 +30,7 @@
       "$field": true,
       "_id": "page.correspondence-address--text.auto_name__19",
       "_type": "text",
-      "name": "auto_name__19",
+      "name": "representative_address_street",
       "widthClassInput": "30"
     },
     {
@@ -41,7 +41,7 @@
       "_id": "page.correspondence-address--text.auto_name__20",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__20",
+      "name": "representative_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
@@ -52,7 +52,7 @@
       "_id": "page.correspondence-address--text.auto_name__21",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__21",
+      "name": "representative_address_county",
       "validation": {
         "required": false
       },
@@ -66,7 +66,7 @@
       "_id": "page.correspondence-address--text.auto_name__22",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__22",
+      "name": "representative_address_postcode",
       "widthClassInput": "10"
     }
   ],
