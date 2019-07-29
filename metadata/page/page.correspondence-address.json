@@ -9,6 +9,11 @@
       "name": "auto_name__16"
     },
     {
+      "_id": "page.correspondence-address--content",
+      "_type": "content",
+      "html": "### Your contact address"
+    },
+    {
       "_id": "page.correspondence-address--text.auto_name__18",
       "_type": "text",
       "label": "Building and street",
