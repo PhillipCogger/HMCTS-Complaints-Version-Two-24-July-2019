@@ -7,16 +7,16 @@
       "_type": "radios",
       "items": [
         {
+          "_id": "page.complaint-contact-address--radios.auto_name__17--radio.auto_value__14",
+          "_type": "radio",
+          "label": "Myself",
+          "value": "auto_value__14"
+        },
+        {
           "_id": "page.complaint-contact-address--radios.auto_name__17--radio.auto_value__13",
           "_type": "radio",
           "label": "The customer",
           "value": "auto_value__13"
-        },
-        {
-          "_id": "page.complaint-contact-address--radios.auto_name__17--radio.auto_value__14",
-          "_type": "radio",
-          "label": "The person complaining on behalf of the customer",
-          "value": "auto_value__14"
         }
       ],
       "legend": "Who do you want us to contact about the complaint?",
