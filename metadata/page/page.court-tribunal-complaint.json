@@ -23,5 +23,10 @@
       "name": "court_or_tribunal_complaint"
     }
   ],
+  "show": {
+    "identifier": "reason_for_complaint",
+    "operator": "is",
+    "value": "reason_for_complaint_hmcts_experience"
+  },
   "url": "court-tribunal-complaint"
 }
