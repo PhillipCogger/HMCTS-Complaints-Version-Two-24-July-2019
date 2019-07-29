@@ -19,7 +19,7 @@
           "value": "on_behalf_of_customer_complaint_yes"
         }
       ],
-      "legend": "Are you making a complaint on someone's behalf?",
+      "legend": "Are you making a complaint on someone else's behalf?",
       "name": "customer_making_complaint"
     }
   ],
