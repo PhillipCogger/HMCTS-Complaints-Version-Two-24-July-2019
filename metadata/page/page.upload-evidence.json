@@ -7,6 +7,7 @@
       "_type": "fileupload",
       "hint": "You can upload your documents as scanned copies or photos of the originals.",
       "label": "Upload evidence",
+      "maxFiles": 20,
       "maxSize": "10",
       "minFiles": 0,
       "name": "auto_name__33"
