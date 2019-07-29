@@ -1,0 +1,23 @@
+{
+  "_id": "page.customer-name",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.customer-name--text.auto_name__1",
+      "_type": "text",
+      "label": "Customer name",
+      "name": "customer_name"
+    }
+  ],
+  "show": {
+    "0": {
+      "identifier": "customer_making_complaint",
+      "operator": "is",
+      "value": "on_behalf_of_customer_complaint_yes"
+    },
+    "identifier": "customer_making_complaint",
+    "operator": "is",
+    "value": "on_behalf_of_customer_complaint_yes"
+  },
+  "url": "customer-name"
+}
