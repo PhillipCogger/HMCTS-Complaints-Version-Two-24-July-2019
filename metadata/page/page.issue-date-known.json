@@ -10,17 +10,17 @@
           "_id": "page.issue-date-known--radios.auto_name__29--radio.auto_value__21",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__21"
+          "value": "issue_date_known_yes"
         },
         {
           "_id": "page.issue-date-known--radios.auto_name__29--radio.auto_value__22",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__22"
+          "value": "issue_date_known_no"
         }
       ],
       "legend": "Do you know when the issue happened?",
-      "name": "auto_name__29"
+      "name": "issue_date_known"
     }
   ],
   "url": "issue-date-known"

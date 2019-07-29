@@ -6,13 +6,13 @@
       "_id": "page.court-complaint-location--text.auto_name__24",
       "_type": "text",
       "label": "Court name",
-      "name": "auto_name__24"
+      "name": "court_name"
     }
   ],
   "show": {
-    "identifier": "auto_name__23",
+    "identifier": "court_or_tribunal_complaint",
     "operator": "is",
-    "value": "auto_value__15"
+    "value": "court_complaint_yes"
   },
   "url": "court-complaint-location"
 }

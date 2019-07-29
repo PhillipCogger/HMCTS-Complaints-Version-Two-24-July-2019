@@ -7,13 +7,13 @@
       "_type": "email",
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your email address",
-      "name": "auto_name__36"
+      "name": "your_email_address"
     }
   ],
   "show": {
-    "identifier": "auto_name__34",
+    "identifier": "contact_preferences",
     "operator": "is",
-    "value": "auto_value__25"
+    "value": "contact_preferences_email"
   },
   "url": "email-address"
 }

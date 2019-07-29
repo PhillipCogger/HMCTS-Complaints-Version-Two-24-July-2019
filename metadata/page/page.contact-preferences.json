@@ -11,7 +11,7 @@
           "_id": "page.contact-preferences--radios.auto_name__34--radio.auto_value__25",
           "_type": "radio",
           "label": "Email",
-          "value": "auto_value__25"
+          "value": "contact_preferences_email"
         },
         {
           "_id": "page.contact-preferences--radios.auto_name__34--radio.auto_value__26",
@@ -19,22 +19,22 @@
           "conditionalComponent": {
             "_id": "page.contact-preferences--radios.auto_name__34--radio.auto_value__26--text.auto_name__35",
             "_type": "text",
-            "hint": "For example, between 4 and 6pm, or you can give an exact time, like 6.30pm",
+            "hint": "For example, between 4 and 6pm, or give an exact time, like 6.30pm",
             "label": "What's the best time to call?",
-            "name": "auto_name__35"
+            "name": "contact_preferences_phone_time_preference"
           },
           "label": "Phone",
-          "value": "auto_value__26"
+          "value": "contact_preferences_phone"
         },
         {
           "_id": "page.contact-preferences--radios.auto_name__34--radio.auto_value__27",
           "_type": "radio",
           "label": "By post",
-          "value": "auto_value__27"
+          "value": "contact_preferences_post"
         }
       ],
       "legend": "How would you prefer to be contacted?",
-      "name": "auto_name__34"
+      "name": "contact_preferences"
     }
   ],
   "url": "contact-preferences"

@@ -10,17 +10,17 @@
           "_id": "page.court-tribunal-complaint--radios.auto_name__23--radio.auto_value__15",
           "_type": "radio",
           "label": "Court",
-          "value": "auto_value__15"
+          "value": "court_complaint_yes"
         },
         {
           "_id": "page.court-tribunal-complaint--radios.auto_name__23--radio.auto_value__16",
           "_type": "radio",
           "label": "Tribunal",
-          "value": "auto_value__16"
+          "value": "tribunal_complaint_yes"
         }
       ],
       "legend": "Are you complaining about a court or tribunal?",
-      "name": "auto_name__23"
+      "name": "court_or_tribunal_complaint"
     }
   ],
   "url": "court-tribunal-complaint"

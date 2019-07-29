@@ -7,13 +7,13 @@
       "_type": "number",
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your phone number",
-      "name": "auto_name__37"
+      "name": "your_phone_number"
     }
   ],
   "show": {
-    "identifier": "auto_name__34",
+    "identifier": "contact_preferences",
     "operator": "is",
-    "value": "auto_value__26"
+    "value": "contact_preferences_phone"
   },
   "url": "phone-number"
 }

@@ -7,13 +7,13 @@
       "_type": "date",
       "hint": "For example, 12 11 2018",
       "label": "When did the issue happen?",
-      "name": "auto_name__30"
+      "name": "issue_date"
     }
   ],
   "show": {
-    "identifier": "auto_name__29",
+    "identifier": "issue_date_known",
     "operator": "is",
-    "value": "auto_value__21"
+    "value": "issue_date_known_yes"
   },
   "url": "issue-date"
 }

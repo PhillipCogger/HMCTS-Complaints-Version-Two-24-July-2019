@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Give as much detail as you can, for example, where you were and the names of any staff members involved.",
       "label": "Tell us what happened and how we can resolve it",
-      "name": "auto_name__31"
+      "name": "issue_details"
     }
   ],
   "show": true,

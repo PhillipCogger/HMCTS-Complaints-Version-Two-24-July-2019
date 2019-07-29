@@ -13,20 +13,20 @@
             "_id": "page.do-you-know-case-number--radios.auto_name__26--radio.auto_value__17--text.auto_name__28",
             "_type": "text",
             "label": "Enter case number",
-            "name": "auto_name__28"
+            "name": "case_number_details"
           },
           "label": "Yes",
-          "value": "auto_value__17"
+          "value": "case_number_known_yes"
         },
         {
           "_id": "page.do-you-know-case-number--radios.auto_name__26--radio.auto_value__18",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__18"
+          "value": "case_number_known_no"
         }
       ],
       "legend": "Do you know the case number?",
-      "name": "auto_name__26"
+      "name": "case_number_known"
     }
   ],
   "url": "do-you-know-case-number"
