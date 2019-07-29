@@ -6,7 +6,7 @@
       "_id": "page.service-centre--text.auto_name__1",
       "_type": "text",
       "hint": "For example, a Contact Centre, National Business Centre, or a Courts and Tribunals Service National Contact Centre",
-      "label": "Service centre name",
+      "label": "Service Centre name",
       "name": "service_centre_name"
     }
   ],
