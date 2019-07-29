@@ -3,17 +3,20 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.correspondence-address--text.auto_name__16",
       "_type": "text",
       "label": "Your full name",
       "name": "auto_name__16"
     },
     {
-      "_id": "page.correspondence-address--content",
-      "_type": "content",
-      "html": "### Your contact address"
-    },
-    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.correspondence-address--text.auto_name__18",
       "_type": "text",
       "label": "Building and street",
@@ -21,12 +24,20 @@
       "widthClassInput": "30"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.correspondence-address--text.auto_name__19",
       "_type": "text",
       "name": "auto_name__19",
       "widthClassInput": "30"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.correspondence-address--text.auto_name__20",
       "_type": "text",
       "label": "Town or city",
@@ -34,6 +45,10 @@
       "widthClassInput": "two-thirds"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.correspondence-address--text.auto_name__21",
       "_type": "text",
       "label": "County",
@@ -44,6 +59,10 @@
       "widthClassInput": "two-thirds"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.correspondence-address--text.auto_name__22",
       "_type": "text",
       "label": "Postcode",
@@ -51,7 +70,7 @@
       "widthClassInput": "10"
     }
   ],
-  "heading": "Your details",
+  "heading": "Your name and contact address",
   "show": {
     "all": [
       {
