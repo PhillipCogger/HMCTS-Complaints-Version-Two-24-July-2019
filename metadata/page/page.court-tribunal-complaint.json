@@ -17,6 +17,13 @@
           "_type": "radio",
           "label": "Tribunal",
           "value": "tribunal_complaint_yes"
+        },
+        {
+          "_id": "page.court-tribunal-complaint--radios.auto_name__23--radio.auto_value__1",
+          "_type": "radio",
+          "hint": "For example, a Contact Centre, National Business Centre, or a Courts and Tribunals Service National Contact Centre",
+          "label": "Service Centre",
+          "value": "service_centre_complaint_yes"
         }
       ],
       "legend": "Are you complaining about a court or tribunal?",
