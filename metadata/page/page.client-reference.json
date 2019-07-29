@@ -9,6 +9,12 @@
         {
           "_id": "page.client-reference--radios.auto_name__27--radio.auto_value__19",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.client-reference--radios.auto_name__27--radio.auto_value__19--text.auto_name__38",
+            "_type": "text",
+            "label": "Enter client reference",
+            "name": "auto_name__38"
+          },
           "label": "Yes",
           "value": "auto_value__19"
         },
@@ -24,7 +30,7 @@
     }
   ],
   "show": {
-    "any": [
+    "all": [
       {
         "identifier": "auto_name__2",
         "operator": "is",
@@ -36,7 +42,7 @@
         "value": "auto_value__11"
       }
     ],
-    "conditionsType": "any"
+    "conditionsType": "all"
   },
   "url": "client-reference"
 }
