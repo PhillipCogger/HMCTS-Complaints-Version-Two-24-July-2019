@@ -25,7 +25,7 @@
           "value": "reason_for_complaint_judiciary"
         }
       ],
-      "legend": "Why do you want to make a complaint?",
+      "legend": "What do you want to make a complaint about?",
       "name": "reason_for_complaint"
     }
   ],
