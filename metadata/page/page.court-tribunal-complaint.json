@@ -26,7 +26,7 @@
           "value": "service_centre_complaint_yes"
         }
       ],
-      "legend": "Are you complaining about a court or tribunal?",
+      "legend": "Are you complaining about a court, tribunal or service centre?",
       "name": "court_or_tribunal_complaint"
     }
   ],

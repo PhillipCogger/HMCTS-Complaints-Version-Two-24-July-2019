@@ -9,5 +9,10 @@
       "name": "service_centre_name"
     }
   ],
+  "show": {
+    "identifier": "court_or_tribunal_complaint",
+    "operator": "is",
+    "value": "service_centre_complaint_yes"
+  },
   "url": "service-centre"
 }
