@@ -1,5 +1,12 @@
 {
   "_id": "page.exit-page-2",
   "_type": "page.exit",
+  "body": "You can't use this complaints form to complain about a judge, tribunal member or magistrate. You'll need to [make a complaint to the Judicial Conduct Investigation Office (JCIO)](https://judicialconduct.judiciary.gov.uk/).\r\n\r\nThe JCIO do not accept complaints about a judge’s decision or\r\nthe way a judge has managed a case. They will only look at complaints about personal misconduct by the judiciary.",
+  "heading": "If you want to complain about a member of the judiciary",
+  "show": {
+    "identifier": "reason_for_complaint",
+    "operator": "is",
+    "value": "reason_for_complaint_judiciary"
+  },
   "url": "exit-page-2"
 }
