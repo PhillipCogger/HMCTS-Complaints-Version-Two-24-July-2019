@@ -23,5 +23,6 @@
       "name": "issue_date_known"
     }
   ],
+  "show": true,
   "url": "issue-date-known"
 }
