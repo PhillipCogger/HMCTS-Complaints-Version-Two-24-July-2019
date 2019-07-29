@@ -13,6 +13,7 @@
   "steps": [
     "page.reason-for-complaint",
     "page.exit-page-1",
+    "page.exit-page-2",
     "page.person-making-complaint",
     "page.relationship-to-customer",
     "page.client-reference",
