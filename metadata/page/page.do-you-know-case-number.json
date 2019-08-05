@@ -25,7 +25,7 @@
           "value": "case_number_known_no"
         }
       ],
-      "legend": "Do you know the case number?",
+      "legend": "Do you have a case number?",
       "name": "case_number_known"
     }
   ],

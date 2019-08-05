@@ -6,7 +6,7 @@
       "_id": "page.upload-evidence--fileupload.auto_name__33",
       "_type": "fileupload",
       "hint": "You can upload your documents as scanned copies or photos of the originals.",
-      "label": "Upload evidence",
+      "label": "Upload supporting documents",
       "maxFiles": 20,
       "minFiles": 0,
       "name": "auto_name__33"

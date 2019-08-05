@@ -45,12 +45,6 @@
         {
           "_id": "page.relationship-to-customer--radios.auto_name__14--radio.auto_value__12",
           "_type": "radio",
-          "conditionalComponent": {
-            "_id": "page.relationship-to-customer--radios.auto_name__14--radio.auto_value__12--text.auto_name__15",
-            "_type": "text",
-            "label": "Give more details",
-            "name": "relationship_to_customer_other_give_details"
-          },
           "label": "Other representative",
           "value": "relationship_to_customer_other"
         }
