@@ -21,7 +21,7 @@
         {
           "_id": "page.relationship-to-customer--radios.auto_name__14--radio.auto_value__7",
           "_type": "radio",
-          "label": "Counsellor",
+          "label": "Councillor",
           "value": "relationship_to_customer_counsellor"
         },
         {
@@ -39,7 +39,7 @@
         {
           "_id": "page.relationship-to-customer--radios.auto_name__14--radio.auto_value__11",
           "_type": "radio",
-          "label": "Solicitor",
+          "label": "Solicitor or lawyer",
           "value": "relationship_to_customer_solicitor"
         },
         {
@@ -51,7 +51,7 @@
             "label": "Give more details",
             "name": "relationship_to_customer_other_give_details"
           },
-          "label": "Other",
+          "label": "Other representative",
           "value": "relationship_to_customer_other"
         }
       ],
