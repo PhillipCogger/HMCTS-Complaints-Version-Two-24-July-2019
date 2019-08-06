@@ -1,7 +1,7 @@
 {
   "_id": "page.exit-page-1",
   "_type": "page.exit",
-  "body": "You can't use this complaints form to challenge the outcome of a case. You can [make an appeal](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/}), but you should get legal advice first.",
+  "body": "You can [appeal against a judge's decision](https://www.judiciary.uk/you-and-the-judiciary/appeals-process/}), but you should get legal advice first.",
   "heading": "If you don't agree with the outcome of a case",
   "show": {
     "identifier": "reason_for_complaint",
